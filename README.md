@@ -1,2 +1,2 @@
-# Dobitestprojects-
+# Dobitestprojects
 For trainings
